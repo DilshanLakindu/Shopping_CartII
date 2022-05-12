@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "462912467017",
+    "project_id": "shopping-iii",
+    "storage_bucket": "shopping-iii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462912467017:android:e51aea9f3f4184d02a8f98",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462912467017-aqdb63c7q5ak2e2lt6f4ajcsdokis2o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGY4xH6-WRJtqOzgrXyMFAzNZfcVY39Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462912467017-aqdb63c7q5ak2e2lt6f4ajcsdokis2o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462912467017:android:c5b2c1903b66cdf92a8f98",
+        "android_client_info": {
+          "package_name": "com.example.shopping_cartii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462912467017-dpsj446sspkfipsajaq5c34dk0k1e1r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping_cartii",
+            "certificate_hash": "c495a55f509157026f4f25d92b5c3c4b88ecad4c"
+          }
+        },
+        {
+          "client_id": "462912467017-aqdb63c7q5ak2e2lt6f4ajcsdokis2o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGY4xH6-WRJtqOzgrXyMFAzNZfcVY39Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462912467017-aqdb63c7q5ak2e2lt6f4ajcsdokis2o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
